@@ -1,2 +1,1 @@
-# Online-Gaming-Portal
-Online Game Portal
+# Online Gaming Portal
